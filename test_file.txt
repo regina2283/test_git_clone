@@ -1,2 +1,5 @@
 test_file.txt 01 (master)
+   conflit test
 			  02 (branch)
+
+
